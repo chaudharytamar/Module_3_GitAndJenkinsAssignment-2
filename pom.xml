@@ -11,7 +11,7 @@
     <version>1.0.0</version>
     <packaging>war</packaging>
 
-    <name>Sanders & Fresco Web App</name>
+    <name>SandersFrescoWebApp</name>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
